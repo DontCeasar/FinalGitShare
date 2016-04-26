@@ -3,4 +3,5 @@
  */
 public class Test {
     //Remote new commit
+    //Another commit
 }
